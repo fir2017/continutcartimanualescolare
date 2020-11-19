@@ -1,0 +1,1418 @@
+
+
+clasa 1 aritmetica
+
+multimi
+orientare spatiala 
+corp geom
+figura geom 
+culoare 
+forma 
+element 
+submultime 
+reiunit 
+comun 
+corespondent 
+verificare 
+proba 
+
+numar 
+cifra 
+litera 
+
+natural
+operatii 
+adu
+dif
+mult 
+imp 
+zero
+comparatie 
+<
+>
+<=
+>=
+=
+termen
+operator
+ordinea op 
+tabla adunarii 
+tabla scaderi 
+proba add si scad 
+asociativitate 
+
+unitate de masura 
+metru 
+litrul 
+leul 
+transf um 
+masurari 
+kg 
+timp
+data 
+
+probleme
+solutie 
+rezultat
+intrebare
+raspuns 
+
+contorizare
+numarare
+insumare
+
+
+clasa 2 aritemtica 
+
+trecere peste ordin si clasa 
+geometrie 
+numire
+scriere
+citire 
+tabla inmultirii 
+impartire 
+imp prin cupridnere 
+imp prin parti egale 
+
+um 
+multiplu
+submultiplu
+
+
+
+clasa 3 aritmetica 
+
+facrori 
+restul ima
+cifre romane 
+numere arabe
+
+um
+
+geometrie 
+linia dr 
+seg de gr 
+linie franta 
+linai curba 
+semidreapta 
+unghi 
+poz a doua dr 
+poligon 
+perimetru liniei frante inchide 
+
+
+
+matem clasa 4
+
+recap 
+completare 
+cunostinte 
+anterior 
+proba de control 
+
+nr naturale 
+numararescriere 
+citire 
+comparare 
+cifre romane 
+operatii 
+
+ummetrul 
+kg 
+timp 
+
+fractii 
+rgale 
+comparare 
+operatii 
+numitor 
+numarator 
+parti din fractie 
+regual de  simple 
+reduc la unitate 
+
+fractie zecimala 
+compare
+oper 
+
+um
+transf 
+distanta
+viteza
+media
+timp 
+
+geometrie 
+aria
+transformari 
+aria suprafata 
+aria dreptungh imaaria patrat 
+
+numar 
+scirere 
+citire 
+transf um 
+
+metoda grafica 
+proba 
+
+geometrie 
+
+metoda reotrgrada sau a mersului nivers 
+problem dificile 
+
+
+matematica clasa 5
+
+nr naturale 
+ordinea ef op 
+imp cu rest 
+facto comun 
+putere 
+paranteze 
+metode de rez 
+sis de numeratie 
+
+litere in calcule 
+multime 
+simbol 
+diagrama venn euler 
+inclus 
+submultime 
+egale 
+op cu multimi 
+utiliz litere 
+propozitii
+adevarata
+falsa
+op cu nr naturale 
+rela de ordine in N
+ecuatii 
+inecuatii
+multimea solutiilor 
+
+
+divizibiliattea nr naturale
+divizibilitate
+divizor
+multipluprop 
+criterii 
+nr prime
+ciur eratostene 
+produs de puteri de nr prime 
+divizor comun 
+cmmdc 
+cmmmc 
+descomp in facori primi 
+nr prime in ele 
+nr pare
+nr impare 
+semn 
+
+nr rationale 
+pozitive
+fractiifr echivalente
+aducerea la acelasi numitor 
+numar rationaleaxa nr rationale poz si neg 
+op 
+invers 
+putereordinea ef op 
+media aritemtica
+ecuatii
+inecutatii 
+fractie din nr 
+fractie din fractie 
+nr cand se cunoaste o fractie din el 
+fractii nu numitor 10, 100, 1000
+zecea 
+suta 
+mia 
+procente 
+aritemtica in geometrie 
+fr cu numitor diferit de 10, 1000, 100
+
+
+
+matematica clasa 6
+
+
+fractii zecimale 
+raport 
+proportie 
+termen necunoscut 
+prop derivate
+sir de rap egale 
+prop direct si invert 
+reg de 3 simple 
+reg de 3 compusa 
+impa in parti direct prop 
+imp in parti inves prop 
+scaral plan 
+distanta pct geografice pe harta 
+
+procente 
+procent din nrnr candse stie procentul 
+raport procentual 
+
+
+nr intergi 
+z
+absolut modulo 
+operatii 
+comu asoc el neutru opu opus unei sume 
+comparatii 
+distrib 
+facto comun 
+divizori 
+puteri 
+
+
+nr rationale 
+
+nr rationale negative 
+q 
+axa q 
+inclus n z q r c t 
+abs 
+op 
+prop 
+
+
+radacina patrata 
+din nr natural patrat pefect 
+din nr nat nenegativ 
+cu aproximatie 
+nr irationale 
+extragere rad patrate 
+repr fractie zecimala a rad 
+prop 
+media prop 
+
+monom
+polinom
+op 
+
+fractie alg 
+ec de gr I cu o nec 
+
+
+matem clasa 7
+
+nr reale 
+polinoame 
+fra algebrice 
+functii 
+grafice 
+sist de ecuatii 
+
+tabele cu ptrate si radacini 
+
+
+mate clasa 8
+
+interval 
+ec reductibile 
+ine 
+sis alg  de ec de gr I
+
+fucntii 
+liniare
+patratice
+
+
+polinoame 
+fractii rationale 
+divizibiliattea
+operati 
+binomul x-a 
+p ireductibile 
+desc in factori 
+formuel speciale 
+cmmdc 
+cmmmc 
+f polinoamiale 
+ec polinomiale 
+bezout 
+amplificare
+simplificare
+valor 
+op 
+
+ec de gr II
+rez 
+caz special 
+formule 
+ec echiv cu ec de gr II 
+rel intre radacin isi coef trinomului 
+desc in fact a trinomului 
+ec care se rez cu 
+
+
+tehnica de calcul 
+
+input 
+output 
+save 
+subprogra, 
+ciclare 
+instructiune
+basic
+
+
+mate clasa 9 
+
+ec de gr I si II 
+iencuatii de gr II 
+radacini reale 
+
+logica mate 
+multimi 
+functii 
+
+nrreale 
+
+respre
+fracctii zecimale neperiodice si infinite
+ordonare 
+aprimari 
+op 
+interpretare geom 
+
+f de gr II 
+def 
+grafic 
+ax is mic 
+intrval monotonie 
+tab de var s itrasare 
+somnul f 
+aplciatii 
+practica 
+rezolvare sisteme de ec cu coef reali 
+
+
+puteri
+radicali
+
+nr compleze 
+mutliema C 
+forma algebrica 
+repr geom 
+rez ec de gr II cu coef reali 
+
+mate clasa 10
+
+exp
+log 
+functia 
+puteri 
+grafic 
+prop 
+chimbare de baza 
+logaritmare 
+log zecimal 
+table log 
+op 
+ecuatii 
+sisteme de ec 
+inecuatii 
+
+inductie mate 
+combinatorica 
+deductie 
+inductie 
+metoda inductiei 
+varianta 
+
+combinari 
+ordonaremultime 
+permutare 
+aranjament 
+combinare 
+
+
+binomul lui newton 
+identitati cu cmbinari 
+suma puterilor ale primelor n  nr N 
+
+progresii aritm  si geom 
+siruri 
+
+
+nr intregi 
+t imp cu rest 
+dizibil 
+cmmdc 
+nr prie 
+desc in f primi 
+
+
+polinoame cu coef complecsi 
+def 
+prop 
+forma alg a polinom 
+grad polinom 
+valuare p 
+f polinomiala 
+imp 
+t inr cu rest 
+in prin x-a 
+shcema horner 
+
+divizibiliattea polinom 
+def rel de div 
+prop 
+cmmdc 
+cmmmc 
+
+radacina polinoamiale
+ec alg 
+t bezout 
+t dalembert gauss 
+t abel ruffii 
+radacimi multiple 
+formule viete si rel intre rad si coef 
+
+ec alg de grad superior 
+
+polinoame cu coef reali 
+
+
+polinoame cu coef rationali si intregi 
+
+
+inforamtica 
+
+sistem de calcul 
+algorim 
+expresie 
+strucutura program 
+instructiuni 
+fucntii 
+decizie 
+transfer conditionat 
+vfectori 
+alte instructiune
+
+
+algebra clasa 11
+
+permutare 
+produs 
+tanspusa 
+inversiune 
+signatura 
+desco in produs de transpozitii 
+
+
+matrice 
+op 
+transpusa 
+
+determinant 
+ordinul  2 si 3
+prop 
+int geom a det 
+calcul det 
+
+randul unei matrice 
+matrice inversabila 
+
+
+sis e ec liniare 
+reg cramer 
+calc rangmatrice 
+sis de ec liniar si linaire omogene 
+
+algebra clasa 12
+
+preliminarii 
+
+legi de compozitie 
+parte stabila 
+indusa 
+tabla 
+asoc com el neu el simetrizabil 
+prop 
+modulo nat
+
+grup 
+monoizi
+grup 
+calcul i ngrup 
+subgrup 
+morfism de grup 
+
+inel 
+corp 
+calcul in inel 
+inelul claselor deresturi modulo n 
+morfisme de inele si corupuri 
+
+
+
+
+
+
+
+geom clasa 6
+
+punct
+dreapta
+semidreaptasegment
+semiplan
+masura segment
+rigla
+constructie
+segment congruent
+operatii
+mijlocul sgmentului
+
+unghi
+masura unghi
+unghi congruent 
+raportor 
+adunare unghi 
+op unghi 
+
+bisectoare 
+unghi drept 
+unghi ascutit 
+unghi obtuz
+unghi in jurul unui punct 
+unghi opus la virf 
+
+drepte perpendiculare 
+
+cerc 
+triunghi 
+linii in triunghi 
+cazuri de congruenta la triunghi oarecare 
+metoda triunghiului congruent 
+
+
+geometria bazata pe demonstratii
+
+prop mate 
+axioma 
+teorama 
+prop triunghi isoscel 
+triunghi echilateral
+prop 
+
+simetria fata de o dreapta 
+
+metoda reducerii la absurd 
+
+unghi format de doua drepte cu o secanta 
+drepte paralele 
+constr dr par cu o dr data 
+
+axioma euclid 
+unghi format de doua dr par cu o secanta
+
+ungh cu lat repsectiv paralele 
+
+suma mas unghi triunghi 
+
+unghi cu lat reps perpend 
+
+casuri de congr a triuung hidr 
+
+patrulatere 
+
+suma mas unghi patrulater convex
+
+paralelogram 
+
+linia mijlocie in triunghi 
+
+paralelogram particulare 
+
+dreptunghi
+rmb 
+patratsimetria fata de un punct 
+trapez
+linia mij in trapezz
+inegalitati intre elem triunghiului 
+mediatoare unui segment 
+biesectoare un uiunghi ca loc geometric 
+
+
+
+
+
+
+
+
+
+
+
+
+
+geometrie clasa 7 
+
+relatii metrice
+thales
+ in raportarte reale oarecare 
+t fundam a asemanarii
+triungh iasemenea 
+caz de asmenare
+puterea unui pct fata de un cerc 
+rel metri in triu dr 
+sinus is cos in unghi 
+tan unui unghi 
+rez triu oarecare 
+facultativ 
+
+
+aria tri 
+aria patr 
+poligo nreg 
+stelat 
+lungime cerc 
+aria cerc 
+
+
+transf geom 
+seg orientat sit pe o dr 
+semi de acelasi sens si de sens contrar pe o dr paralele 
+vectori 
+unghi orientat 
+transf geom 
+transaltia 
+rotatia 
+
+
+geometrie clasa 8
+
+pct
+dr 
+plan 
+det plan 
+poz rel a dr si a plan in spatiu 
+poz rel a doua dr in spatiu 
+poz rel a dr fata de plan 
+poz rel a doua plane 
+t de paralelism 
+
+poz rel a trei plane 
+
+ate t de paralelism 
+
+perpend in spatiu 
+dr perp 
+dr perpend pe plan 
+
+t celor trei perpend 
+
+plane perpend 
+perp comuan a doua dr 
+perp si paralel 
+perpend si oblica 
+dist de la un punct la un plan
+
+proiectie
+proiectie pe un plan 
+
+unghi a doua dr 
+ungh ia dr cu un planungh idiedru 
+
+
+poliedru particular 
+
+tetraedru
+prisma
+volum prisma triu 
+pirmida 
+volum pira 
+trunchi de [pira 
+colum trunchi de pira 
+poliedru convexe in geenral 
+
+transf in spatiu 
+
+simetrie fata de un pct si dr si plan 
+transaltia i nspatiu 
+rotatia in jurul axei 
+centru 
+axa 
+pla nde sim a unei multimi de puncte 
+
+
+suprafete si corpuri rotunde 
+gen 
+consid intuitive 
+cilindri circulari 
+panze conice circ 
+sfera 
+tang supr curbe 
+sur de rotatie 
+
+volum si aria corp rotunf 
+volum cilindru 
+vol con 
+aria lat a cil si con 
+aria lat a cil dr 
+aria lat a con circ dr 
+aria si vol tru de con circ dr 
+aria sferei
+volum sfera
+
+
+geometrie si trigonometrie clasa 9
+
+incidenta
+orodnare
+congruenta 
+atud axiomatric al geom 
+axiom de incidenta lae geom plane 
+dist si axioma riglei 
+sg, semidr si unghi 
+axioma de sseparare a plan ec
+axiom de separare a planmultimi convexe 
+axiom unghi 
+prop de congruenta 
+congr triunghi
+inegalit gometrice
+alte caz de congr a tri 
+dst de la pct la o dr 
+mediatoarea 
+bisectoarea 
+loc geometrice
+dr neconcurente 
+
+paralelism
+asemanare
+
+axioma paral 
+suam mas unghi din triu 
+linia mij 
+conc unor dr in tri 
+paralelel echidistante 
+t thales 
+t bisectoarei 
+asem tri 
+rel metrice 
+
+
+cec 
+def 
+coarde 
+arce 
+ungh ila centru 
+unghiinscris 
+poligon incris si circumscris 
+poz rel a doua cerc 
+lungi cerc 
+
+elem de geom analitica 
+coordonate in plan 
+ec dr 
+coef unghi al dr 
+f sin si cos def pe interval 
+unghi in dr cu axa abciselor 
+
+f trigonometrice 
+f dde acoperire universala a cerc uniatte 
+f trigonometrice sin si cos 
+formule de cos , sim si for deduse din acestea 
+f tg si ctg 
+transformarea sumelor in produs 
+grafice f sin si cos is tg 
+identitati conditionate 
+
+ec trigo 
+rel fct 
+inversare f trigo 
+fasrcin , arccos, arctg 
+ec tri funda 
+ec tri care se rez cu ajut r ec din alg 
+ec de forma trigonometrica 
+
+
+geometrie clasa 10
+
+suprafete polgon 
+arii 
+multime congruenta
+multime asemenea
+aria sp 
+sup mas 
+aria disc 
+
+app trigo in geom 
+coord in plan 
+polare 
+t sinus is cos 
+rez tri 
+aria triu 
+aza cerc circ 
+raza cerc inscr in triu 
+
+
+app trigo in algebra 
+forma alg a unui nr conplex 
+op cu nr C scris sub forma trigo 
+rad de ordin n dintrun nr C
+ec binome 
+app ale numelor C in geom 
+
+incidenta , ordonare si paralelism in spatiu 
+axiom geom in spatiu 
+constr in spatiu 
+semiplan 
+multime convexe 
+paral in spatiu 
+
+perpend in spatiu 
+dr perpendiculare 
+dr perpen cu un plan 
+inegalitati geom 
+unghj iunui semiplan cu un plan 
+mas unui unghi diedru 
+plan perpendicu 
+proiectii ortogonale 
+
+poliedre 
+prisma 
+piramida 
+tru de pirmida 
+mult poliedrale 
+volum mult poliedrale 
+multi mas in spatiu 
+
+
+corp rotunde 
+cilindrucon
+tru de consfera
+
+
+geom analitica clasa 11
+
+calc vectorial 
+vectori lib 
+add 
+mult 
+cu nr reale 
+depend liniara 
+proi ordtogonala 
+produs scalar
+
+dreapta 
+reper cartezian
+dr det de un pct si de un vector director
+dr det de doua plane distincte
+ec carteziana generala a une idr 
+reuniune si intersectia a doua dr 
+fasciul de dr 
+dr orientata 
+dist de la pct la dr 
+aria unui tri 
+loc geom 
+semiplan 
+programare liniara cu 2 var 
+
+izometrii
+transf geom 
+translatii
+rotatii 
+izometrii 
+
+
+conice 
+cerc 
+elipsa
+hiperbola
+parabola
+conice
+inersectia dr cu o conica 
+intersectia a doua conice 
+app fizica si tehnica 
+
+
+
+
+trigonometrie clasa 10
+
+unghiarc 
+sis de mas ung is iarc 
+gen notiunii de ungh isi arc 
+
+f trigon 
+unghi ascut 
+algebra vectoriala
+ft unghi orientat 
+rel intre f trigo 
+f trigo de argu numerice 
+f periodice 
+f pare si impare 
+f strict monotone 
+var si grafic f trigof trigo invserse 
+
+f funda 
+rela in f trigo ale unui unghi 
+form trigo de calcul 
+dientitati trigo 
+
+
+ec trigo 
+mult unghi care coresp unei val date a une ifct trgo 
+funct trigo de acelasi nume egale
+ec trigo reductibile la ec elemntare si sis de ec tigo 
+
+app trigo si geom 
+rel trigo in triunghi dr 
+rel tri in triu oarecare 
+tabe;le trigo 
+rez trigu 
+app geon in fiz si topo 
+
+
+numere compelxe sub forma trigo 
+repr geom a C 
+op cu C 
+
+
+
+analiza clasa 11
+
+nr reale 
+f reale 
+op 
+sir 
+submultime R 
+clase de f reale 
+
+limite de sir 
+lim de functie 
+sir de convergente de nr R 
+lim f in punct 
+op cu sir convergent 
+cal lim de sir 
+asimp f reale 
+calc lim de f 
+
+
+functii continue 
+f continue in pct 
+f continue pe o multime 
+prop ale f continue pe un interval 
+
+f derivabile 
+
+derivata f in pct 
+op cu f derivabile 
+derivate f uzuale 
+aplic directe ale derivatelor 
+prop f derivabile 
+
+
+aplic ale derivatelor in studiul var functiilor 
+
+rol primei derivate in studiul f 
+rolul der a doua in stud f 
+repr grefica a f 
+maxim si minim 
+optimizari 
+aplciatii in ecuatii 
+applicatii in cinematica 
+
+
+
+analiza clasa 12 
+
+primitiva 
+integrare prin parti 
+priam meth de schimb de var 
+a doua met de schimb de var 
+integra f rationale 
+
+f itegrabike 
+dviziuni
+f integr 
+integrabilitatea f montone si f continue 
+integr f continue 
+
+aplic ale integralei def 
+ metode de calcul 
+ interp geom a integr def a f pozitive 
+ volum corp de rotatie 
+ lungime grafic f derivabila cu derivat acontinua 
+ aria supra derotatie 
+ calcul aprox al intregralelor deinite
+ centre de greutate 
+  lucrul mecanic 
+ 
+ 
+ logica clasa 10
+ 
+ propozitie 
+ cognitiva 
+ val de adevarataforma logica 
+ corectitudine logicavaliditate
+ problematica
+ defi 
+ logica 
+ nsemnatate 
+ raport cu cel stiinte 
+ 
+ principii logice
+ idnetitati
+ noncontradictie
+ tert exclus
+ratiune suficienta
+
+
+notiunea 
+forma logica fudnamentala 
+cg 
+notiunea 
+cuvant 
+struct notiunii 
+rapor cotinut vs sfera notiunii
+tip de notiune 
+raport intre notiuni 
+
+defi si clasif 
+defi si importanta ei in cunoastere 
+str def 
+reguli def 
+tip de def 
+
+clasificare 
+str clasif 
+reguli clasif 
+tip de clasif 
+diviziunea 
+
+prop categorice 
+cg 
+stru pro categ 
+clais pro cat 
+rap dntre prop cat 
+
+inferente deductive imediate cu pro cat 
+caract gen 
+distribuirea termenilor 
+tip de inferente imediate 
+app ale converisunii si obversiunii 
+
+silogism 
+cg 
+str silogismului 
+figuri si moduri silog 
+legi gen ale silog 
+mod silog valide 
+meode de probare a valid 
+for me speciale de argu silog 
+
+prop compuse 
+prop compuse 
+f adevarate 
+negatia 
+conjunctia
+disjunctia
+raport dintre conj si disj 
+implicatii 
+echivalenta 
+simplif logicii prop compuse 
+
+
+
+inferente deductive cu prop compuse 
+ti pde inf cu prop comp 
+met de stab a vlid infer cu pro comp 
+
+
+prop complexe 
+
+limbaj logiic predicatelor 
+val de adevar a schemlor inchise 
+echiv cuantorilor 
+oridnea cauntirilor si a var obiect 
+transcr prop catrgorice in logica predicatelor 
+forma prenexe
+valid inferente
+
+infer inductive
+inductia si deductia in cunoastere 
+reol observatiei si al exp in cerc stiintifica 
+
+
+analogica
+inductia completare amplificata 
+ simpal enumerare si stiintifca 
+ metode de cercetare indcutiva 
+ 
+ 
+ ipotezel si verificarea lor 
+ criterii de eval a ipotezelo 
+ 
+ 
+
+statistica clasa 12
+
+camp de prob finit 
+eveniment 
+op cu ev 
+prob 
+
+prob condit 
+idnependena 
+prob conditionata 
+
+schema de prob 
+
+var aleatoare
+val medii 
+defi var aleatoareop cu var aleatoare 
+val medii 
+alte val tipice ale var aleatoare
+
+elem de stat mate 
+notiunea de baza ale stat mate 
+repre grafica a seriilor stat 
+sodaje 
+
+
+
+
+mate cals clasa 9
+
+sis de num 
+def 
+scriere real  
+baza 10 2 8 hex 
+transformari baze 
+
+
+prel auto a datelor 
+info si informatica 
+codif info 
+arhit si struct unu isis de clacul 
+limbaj de progr 
+dezv de prg 
+info in ro 
+
+
+op arit 
+op logice 
+aprox R 
+proc de aprox R 
+errosi si ti pde erori 
+erori datorate modului de reprez 
+inegalitati fundamentale in aprox numerelor reale 
+aprox cu eroare absoluta ma imica sau egala cu 1/10^n 
+cifre sigure si cifre indoilenice pt aprox data 
+det erorilor relative maxime ale unei aprox pe baza cifrelor sigure ale acetiea 
+det nr de cifre sigure ale unei aprox cand se cunoste eroarea relativa maxima a ei 
+efect suma si dfi cu aprox 
+efect produse si caturi cu aproximante 
+ridicare la putere a aproxim 
+op logice 
+calcul prop 
+diagrame euler venn 
+tautologii si constrad 
+rationament 
+tip de rationament 
+
+calcul predicate 
+calc predicat ca dezv a calc prop 
+paritculariz unu ipredicat 
+cuantificari 
+op cu predicate 
+identitati logice 
+
+
+
+
+mate calc 10
+
+algebra booleana 
+latice 
+distri si complement 
+
+f boolene 
+expr bool 
+f bool 
+repr f bool 
+
+forma canonica ale f bool 
+forma normale ale fb 
+forma canonica lae fb 
+
+simplifc fb
+simplif prin calcul boolean 
+simplif prin diagrame
+realiz fizica a fb 
+circuit cu contacte 
+circuit logic simple 
+proie circ logice 
+circ logice complexe 
+realiz practica a circ logic 
+
+
+graf neoreintat 
+notiunigraf 
+hamiltonian
+graf eulerian 
+arbore 
+arbore binar 
+apps 
+notatia far aparanteze a unei expr aritmetice 
+arbore de sortare 
+algo de cautare binara 
+
+
+graf orientat
+nb 
+metoda dru,mului critic 
+dc in graf de activitati
+ebvent critic si interval de fluctuatie 
+det drum critic 
+flux maxi in retea de transport 
+
+algortm si metode de repr 
+algo 
+def 
+prop 
+struct 
+clasif 
+
+metode de repr a algo 
+scheme logice 
+
+
+
+mate calc 11
+
+elem de baza ale prog calc 
+sis de prel a datelor simplu spds 
+struct 
+functionare 
+calculator castare calc 
+progamare calc 
+
+repre algo in limbaj lps 
+def 
+instr 
+secvneta de instr 
+repr algo 
+
+instr de control ale lps 
+instr conditionata 
+isnt de ciclare cu conditie 
+utilzia tablou in lps 
+instr de ciclare cu contor 
+
+progr in limbaj fortran
+date 
+atrib 
+expr 
+intro 
+etap dezv 
+problema 
+declar 
+isntr 
+
+
+isntr 
+conditional 
+if ogic 
+if aritmetic 
+salt condit 
+continue stop pause end 
+output input 
+read 
+write 
+format 
+descript derepr a val var 
+asezare camp in inreg si a inreg in cadru lset de date 
+reguli de alcat a liste iformat 
+reguli dupa care se explore lista 
+exempel programe 
+
+facilitati in fortran 
+d0
+subprograme
+funciti externe 
+subrutine 
+
+
+mate calc 12
+
+eroriconcepte de baza in calc numeric 
+surse de erori 
+erori relative si absolute 
+sis de numeratoe 
+repr nr in virgula mobila fp 
+rotunjire si trunchiere 
+propag erori 
+
+rez sis de ec alg liniare 
+problema 
+conditionare sisteme 
+gauss eliminare 
+form matriceala a algo gauss 
+organirama pt metoda lu igauss 
+calcul in fortran 
+strategia pivotarii 
+sis rau conditionate si erori de tounjire 
+meode iterative pt rezolv sis liniare 
+metoda gauss seidel 
+
+
+rez ec neliniare 
+intro 
+metoda interativa 
+o metoda rapida pt extrag rad patrate 
+analiza erorilor 
+metoda newton raphson 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

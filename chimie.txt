@@ -1,0 +1,656 @@
+clasa 7
+
+Capitolul 1 Introducere in studiul chimiei 
+11 Materie Corp Substanta              
+12 Proprietayile substantelor              
+13 Aparatura si ustensilele folosite in laboratorul de chimie    
+131 Manipularea surselor de incalzire si a vaselor de sticlaé   
+14 Fenomene fizice si fenomene chimice             
+15 Obiectul chimiei                  
+16 Substance pure si arnestecuri de substante            
+17 Metode de separate a substantelor din amestecuri     
+18 Amestec si combinatie               
+Exercitii si probleme -intrebari recapitulative          
+Capitolul 2 Structura substantelor Sistemul periodic al elementelor 
+21 Notiuni generate despre atom 
+22 Simbolul chimic 
+23 Structura atomului 
+231Nucleul   
+232 Masa atomica Mol de atom 
+233 Invelisul de electroni al atomilor                                       
+2 4 Structura invelisului electronic 
+Exercitii si probleme-intrebari recapitulative 
+25 Sistemul periodic al elementelor                                       
+251 Structura sislemului periodic al elementelor         
+252 Legiatura dintre structura atomului si locul ocupat de un element in sistemnl 
+periodic 
+Exercitii si probleme-intrebari recapitulative              
+26 Ioni Formarea ionilor pozitis si negativi                               
+261Formarea ionilor pozitivi 
+262 Formarea ionilor negativi 
+263 Variatia caracterului electropozitiv in sistemul periodic         
+264 Variatia caracterului electronegativ in sistemul periodic           
+27 Valenta 
+271 Electrovalenla 
+272Covalenta 
+28 Legaturi chimice 
+281 Legatura electrovalenla sau ionica 
+282 Legatura covalenté  
+Exercitii si probleme-intrebari recapitulative 
+Molecule 
+Formula chimicii 
+Stabilirea formulelor chimice pe baza valentei 
+
+21 Mass moleculara Mol 
+
+
+Capitolul 3 Reactii chimice Legile chimiei 
+31 Legea conservarii masei substantelor 
+32 Ecuatiile reactiilor chimice 
+33 Principalele tipuri de reactii chimice 
+3 3 1  reactii chimice de combinare    
+332 reactii chimice de descompunere 
+333 reactii de inlocuire sau substitutie                                     
+334 reactii de schimb sau de dubla inlocuire 
+34 Calcule chimice 
+341 Calcule chimice pe baza formulelor chimice               
+342 Calcule pe baza ecuatiilor reactiilor chimice           
+ 
+Capitolul 4 Oxigenul 
+
+
+Structura atomului de oxigen           
+Starea nalurala a oxigenului 
+Prepararea oxigenului             
+Proprietatile fizice ale oxigenului            
+Proprietatile chimice ale oxigenului 
+Arderile metalelor in oxigen 
+Arderile nemetalelor in oxigen            
+Reactiile de oxidart si clasificarea lor            
+Utilizarileoxigenului in tehnica si in industrie            
+Importanta biologics a oxigenului             
+Prableme reecalpiLulative 
+
+
+
+Capilolul 5 Hidrogenul 
+51 Structura atomului de hidroger             
+52 Starea naturala a hidrogenului 
+53 Obtinerea hidrogenului 
+531 Actiunea metalelor alcaline asupra apei  
+532 Acliunea acizilor supra metalalor            
+54 proprietatile fizice ale hidrogenului 
+55 proprietatile chimice ale hidrogenului
+551 Reactia de combinare a hidrogennlui cu oxigenul         
+552 Reactia de reducere 
+56 Alte ulilizari ale hidrogenului 
+Probleme rcapitulative 
+
+
+Capilolul 6 Apa 
+
+
+Compozitia moleculara a apei                                        
+Stare nalurale 
+Apa potalbila 
+apa distilata 
+
+ Proprietatile fizice ale apei distilale  
+642 Proprietagile chimice ale ape distilate 
+Lectura 
+
+capitolul 7 solutiile
+
+ 
+71 Dizolvarea               
+711 Definitia procesului de dizolvare si a produsului rezultat  
+
+712 Componentii solutiei                    - 
+713 Factorii care influenteazé dizolvarea 
+
+        
+
+        
+72 Solubilitatea         
+
+721 Clasificarea substantelor dupa solubilitate 
+
+   
+
+  
+722 Factorii care influenteaza solubilitatea substantelor          
+73 Clasificarea solultilor       
+
+      
+
+731 Solutii saturate si nesaturale 
+732 Solufii concentrate Si diluate 
+74 Concentratia solutiilor 
+741 Concentratia procentuala     
+
+     
+
+742 Exprimarea matematica a concentratiei procentuale in functie de masa dizol- 
+vantului si a substantei dizolvate           
+
+     
+
+  
+
+Calcule referitoare la concentratia procentuale a solutiei  
+
+        
+
+Probleme recapitulative 
+
+
+
+Capitolul 8 Substante compuse Oxizi Base 
+Acizi Saruri 
+Oxizi
+811Definilia oxizilor 
+812 Clasificarea oxizilor 
+813 Denumirea oxizilor 
+814 Formula generala a oxizilor 
+815 Obtinarea oxizilor 
+816proprietatile oxizilor 
+8 1 7 Importanta oxizilor ulilizari 
+Probleme recapitulative 
+82 Baze 
+821Defini1ia bazelor 
+822 Clasificarea bazelor 
+823 Denumirea bazelor 
+824Formula generala a bazelor 
+825Metode generale de obrinere a bazelor 
+826Proprietatile bazelor 
+827 Importanta si utilizirile bazelor 
+Probleme recapitulative 
+83 Acizi 
+s31 Definitia acizilor 
+832Clasificarea acizilor 
+833 Denumirea acizilor 
+83L Radicalul acid 
+835Formula generala a acizilor ~                                           
+8 3 6 Metode generate de obtinere a acizilor 
+
+proprietatile acizilor 
+838 Importanta si alte utilizari ale acizilor 
+Probleme recapitulative 
+
+saruri
+851Definigtia sarurilor 
+842 Clasificarea sarurilor 
+8&3Denumirea sarurilor 
+8l¢!lFormula generala a sarurilor
+845 metode generate de obtinere a sarurilor 
+846 proprietatile sarurilor
+8l»7importanta si utilizirile sarurilor                        
+
+anexa
+
+
+clasa 8
+
+cap 1 introducere in studiul elementelor chimice 
+structu atomului
+sistemul periodic al elementelor
+elemente cu caracter electropozitiv si electronegativ 
+legatura chimica 
+
+cap 2
+notiuni despre gupa vii a principala a sistemului periodic al elementelor 
+caractere generale 
+clorul clasa
+clasif combinatiilor anorganice ale clorului
+acidul clorhidric hcl
+sarurile acidului clorhidric
+cele mai importante combinatii oxigenate ale clorului 
+
+cap 3
+grupa vi principala 
+sulful sau pucioasa 
+combinati ianorganice ale sulfului 
+acidul sulfuric h2so4 
+
+cap 4
+azotul sau nitrogenul n 
+combinatii anorganice azot 
+amoniacul nh3 
+sarurile de amoniu 
+acidul azotic 
+hno3 
+circuitul azotului in natura 
+fosforul 
+clas combin anor ale fosforul
+acoidul fosforic 
+sarurile acidului fosforic 
+circui fosfor in natura 
+rolul elem nutritive in cresterea si dezv plantelor 
+ingrasaminte chimice 
+
+cap 5 
+grupa iv principala 
+cg 
+carbonul 
+varietati de carbuni artificiali 
+clasif compusilor carbonului 
+monoxid de carbon 
+dioxid de carbon 
+acidul carbonic 
+sarurile acodului carboni  carbonatii 
+siliciul 
+cb siliciu 
+dioxid de siliciu 
+sticla 
+produse ceramice 
+
+
+partea a doua a 
+metale 
+
+cap 6 cg ale metalelor 
+pozitia metalelor in sp 
+prop fiz ale meta 
+prop mecanice 
+prop chimice 
+seria de activitate 
+aliaje 
+
+cap 7 gupa i principala a sp 
+cg
+hidroxid de sodou naoh
+carbonat de sodiu na2co3 
+
+cap 8
+gr ii principala sp 
+cg 
+compusi ai calciului 
+rolul biochimic al sarurilor de calciu 
+
+cap 9 
+aluminiu 
+struct atomului de aluminiu 
+starea naturala a aluminiului
+obtinerea al 
+prop fiz 
+prop chimcie 
+
+cap 10 staniu si plumbul 
+cg 
+prop 
+rol biochimic 
+
+cap 11 
+metale tranzitionale 
+cg 
+fier 
+rolul 
+cupru 
+imp bio  
+zinc si mercur 
+
+
+
+clasa 9
+
+struct invelis electronic 
+atom 
+ele chimic 
+izotop 
+orbital 
+strat 
+substrat 
+ocupare cu el a strat si substrat 
+config ele a elem 
+rela intre struct atomic a elem si pozitia lor in sp 
+vari prop elem in sp 
+prop neperiodice 
+periodice 
+fizice 
+chimice 
+valenta 
+caract electrochimic al el 
+
+legaturi chimice 
+subst cristalina 
+cristal 
+retele cristaline 
+legatura ionica 
+retele ionice 
+leg covalenta 
+nepolara 
+polara 
+retele covalente sau atomice 
+leg cov coordinativa 
+complecsi 
+leg metalica 
+retele metalice 
+interactii intre molecule 
+retele moleculare 
+subst amorfe 
+
+
+solutii 
+generalit 
+dizolvarea 
+solubilitatea 
+fact care influ solubilit 
+concentratia solutiilor 
+explirmarea conce solut 
+conce procentuala 
+conc molara
+conce normala
+
+
+
+legile gazelor 
+starea gazoasa
+param ce caract starea gaz si rel dintre ei 
+leg avogadro si app
+det masa moleculara si densit gaze 
+
+
+reactii chimice 
+reac reversibile 
+react ireversibile
+react cu transf de protoni 
+teoria protolitica a acizilor si bazelor 
+def acizilor si bazelor 
+amorfiti acido bazici 
+ionizarea apei 
+react de neutralizare 
+acizi tari
+azici slabi 
+baze tari 
+baze slabe 
+hidroliza sarurilor 
+react cu transf de electroi
+react de oxido reducere redox 
+def react redox 
+stab coef stoechiometrici in ec react cu transf de ele 
+app ale react cu transf de el 
+electroliza 
+electroliza unei solutii de clorura de cupru 
+electroliza unei sol de iodura de potasiu 
+
+calcul stoechiometric 
+randament 
+
+
+nemetale 
+stare netura
+obt nemetalelorprop fiz ale nem 
+prop chim ale nem 
+react nem cu subst simple 
+si cu subt compuse 
+compusi ai nemet cu hidrogenul 
+hidruri 
+met de obt 
+form gen a hidrurilor si polaritatea 
+prop fiz
+prop chim 
+compusi nemet cu oxigenul 
+oxizilor
+obt oxid 
+structura 
+prop fiz  
+prop chim 
+
+
+metale 
+stare gen 
+met gen de obt ale met 
+prop fiz gen ale met 
+aliaje 
+obt aliajelor 
+prop fiz 
+aliaje cu imp indus 
+prop chimice gen ale met 
+metale de tip s 
+s o pf pc compusi 
+oxizi 
+peroxizi 
+hidroxizi
+saruri
+intrebuintare 
+metale de tip p 
+combinatii complexe 
+metale de tip d 
+cromati si dicromati alcalini 
+permanganat de potasiu
+combinatii complexe 
+metale de tip f 
+lantanide 
+serie 
+pf pc 
+seria actinide 
+protectia mediului inconjurator 
+poluarea 
+surse 
+ aer
+  ape 
+  sol 
+  consecinte
+  combaterea poluarii 
+  
+  
+  clasa 10
+  
+  introd in chim org 
+  def co 
+  izolarea si purificarea subst org 
+  comp subst org 
+  struct compusilor org 
+  
+  hidrocarburi 
+  alcani
+  alchene 
+  alchine
+  arene hidro aromatice 
+  petrol 
+  
+  
+  compus org cu functii simple 
+  camp halogenati
+  comp hidroxilici
+  alcooli
+  fenoli 
+  amine
+  comp carbonilici 
+  aldehide 
+  cotone 
+  compusi carboxilici 
+  
+  derivati funct ai acizilor carboxilici
+  esteri 
+  grasimi 
+  amide 
+  
+  
+  subst nat cu imp fiziologica 
+  aminoacizi
+  peptide 
+  proteine 
+  zaharuri 
+  monozahaide 
+  dizaharaide 
+  polizaharide 
+  
+  
+  compusi macromoleculari 
+  react de polimerizare 
+  polimeri imp 
+  react de policondensare 
+  polincondensate importante 
+  prop gen ale comp macromoleculari 
+  
+  rel intre dif clase de comp org 
+  
+  
+  clasa 11
+  
+  asp energetice ale reac chim 
+  not de elctrochimie 
+  reac cu tansf de electroni 
+  nr de oxidare 
+  stab coef in react de redox 
+  cateva proc redox intalnite in stud chim org 
+  proc redox in ch analitica 
+  proc redox in sisteme biologice 
+  
+  elem galvanice 
+  electrodul normal de hidrogen 
+  potential de oxido reducere std 
+  pot std si sensul react chim 
+  celula galvania utiliz in tehn 
+  
+  coroziunea un proc redoc nedorit 
+  electroliza efect chimic ale cur el 
+  electroliza si legile ei 
+  app 
+  
+  energia chimia 
+  energia termica 
+  fen exoterme 
+  fen endoterme 
+  caldura de reactie 
+  energia interna 
+  caldura de formare 
+  var de entalpie in react chim 
+  leg lui hess 
+  caldura de dizokvare 
+  caldura de neutralizare 
+  rel intre var de entalpie si energ de legatura 
+  
+  entropia o alta marime ce caract sistemul
+  fen spontane 
+  entropia
+  var de entalpie in rec chim 
+  sens in care o reac chim decurge spontan 
+  
+  entropia libera
+  crit de spontaneitate a unei rect chim 
+  
+  energia chimica is proc biologice 
+  fotosinteza
+  oxidarea in proc metabolice
+  
+  reatc chim 
+  fen ce se petrec in timp 
+  teoria ciocnirilor 
+  complex activat
+  energia de activare
+  viteza de reactie 
+  fact care influ vit de reac 
+  inf concen reac asupr vit de rea 
+  inf temp 
+  inf suprafetei de contact asu vit de reac 
+  inf catalizatorilor 
+  
+  
+  echilibrul chimic 
+  fen reversibil 
+  concept de echilibrulprop sis in echil 
+  leg acti maselor 
+  leg echil chimic 
+  fact care influ echi chi 
+  pri le chatelier 
+  inf temp asur echi chi 
+  inf concentratiei asu echi chi 
+  influ presiunii asu echi chi 
+  apli legii acitunilor maselor 
+  ec in sis omogene gazoase  lichide  redox 
+  ec cu formare de complecsi
+  echi in sis eterogene 
+  
+  clasa 12
+  
+  struct comp org 
+  not struct chim 
+  pri gen de det a stru comp org 
+  leg chi in comp org 
+  efe electronice in molec orga 
+  efe inductiv 
+  efe electromer si conjugarii de electronic
+  izomerai comp org 
+  izomeria geometrica etilenica 
+  izomeria optica enantiomeria 
+  
+  reactvitatea comp org 
+  intermiari in react din chi org 
+  clasif react comp org 
+  
+  acizi baze in chi org 
+  concept mordern asupra carac acid sau bazic 
+  acizi si baze ca reactanti in chi org 
+  amfoliti in chi org 
+  
+  not de teh chi 
+  proces teh 
+  crit in aleg proces teh 
+  bilant de materiale 
+  conversie  randament 
+  surse de mat prime pt ind chi org 
+  
+  react ale comp org si app teh 
+  reac de halogenare 
+  mecanism react de halogenare 
+  app ale reac de halogenera
+  
+  reac de nitrare 
+  mec si app 
+  
+  react de sulfonare 
+  mec si app 
+  
+  reac d alchilare
+  mec si app 
+  
+  reac de hidroliza
+  ma
+  
+  reac de diazotare 
+  ma 
+  
+  reac de condensare 
+  ma 
+  
+  reac de polimerizare 
+  ma 
+  
+  reac  de oxidare 
+  ma 
+  
+  
+  reac de hidrogenare reducere 
+  ma 
+  
+  cheme de chimizare ale unor mat prime naturale 
+  metan 
+  petrol 
+  carbuni 
+  lemn 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
